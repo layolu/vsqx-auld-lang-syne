@@ -1027,7 +1027,7 @@
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
 				<lyric><![CDATA[-]]></lyric>
-				<phnms><![CDATA[-]]></phnms>
+				<phnms lock="1"><![CDATA[O: l d]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1251,7 +1251,7 @@
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
 				<lyric><![CDATA[-]]></lyric>
-				<phnms><![CDATA[-]]></phnms>
+				<phnms lock="1"><![CDATA[O: l d]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1345,13 +1345,13 @@
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>11818</posNrm>
+							<posNrm>11832</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>11818</posNrm>
+							<posNrm>11832</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
@@ -1649,7 +1649,7 @@
 				<noteNum>62</noteNum>
 				<velocity>64</velocity>
 				<lyric><![CDATA[-]]></lyric>
-				<phnms><![CDATA[-]]></phnms>
+				<phnms lock="1"><![CDATA[O: l d]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
