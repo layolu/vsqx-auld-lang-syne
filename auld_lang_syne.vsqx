@@ -160,7 +160,7 @@
 			</partStyle>
 			<singer>
 				<posTick>0</posTick>
-				<vBS>1</vBS>
+				<vBS>0</vBS>
 				<vPC>0</vPC>
 			</singer>
 			<note>
@@ -168,8 +168,8 @@
 				<durTick>480</durTick>
 				<noteNum>60</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[Should]]></lyric>
-				<phnms><![CDATA[S U d]]></phnms>
+				<lyric><![CDATA[ほ]]></lyric>
+				<phnms><![CDATA[h o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -199,8 +199,8 @@
 				<durTick>720</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[auld]]></lyric>
-				<phnms><![CDATA[O: l d]]></phnms>
+				<lyric><![CDATA[た]]></lyric>
+				<phnms><![CDATA[t a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -230,8 +230,8 @@
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[ac-]]></lyric>
-				<phnms><![CDATA[V k]]></phnms>
+				<lyric><![CDATA[る]]></lyric>
+				<phnms><![CDATA[4 M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -249,8 +249,8 @@
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[quain-]]></lyric>
-				<phnms><![CDATA[w eI n]]></phnms>
+				<lyric><![CDATA[の]]></lyric>
+				<phnms><![CDATA[n o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -280,8 +280,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[tance]]></lyric>
-				<phnms><![CDATA[t V n s]]></phnms>
+				<lyric><![CDATA[ひ]]></lyric>
+				<phnms><![CDATA[C i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -311,8 +311,8 @@
 				<durTick>720</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[be]]></lyric>
-				<phnms><![CDATA[bh i:]]></phnms>
+				<lyric><![CDATA[か]]></lyric>
+				<phnms><![CDATA[k a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -342,8 +342,8 @@
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[for-]]></lyric>
-				<phnms><![CDATA[f @r]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -361,8 +361,8 @@
 				<durTick>480</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[got]]></lyric>
-				<phnms><![CDATA[g Q t]]></phnms>
+				<lyric><![CDATA[り]]></lyric>
+				<phnms><![CDATA[4' i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -392,8 +392,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[and]]></lyric>
-				<phnms><![CDATA[{ n d]]></phnms>
+				<lyric><![CDATA[ま]]></lyric>
+				<phnms><![CDATA[m a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -420,11 +420,11 @@
 			</note>
 			<note>
 				<posTick>5760</posTick>
-				<durTick>720</durTick>
+				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[ne-]]></lyric>
-				<phnms><![CDATA[n e]]></phnms>
+				<lyric><![CDATA[ど]]></lyric>
+				<phnms><![CDATA[d o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -433,29 +433,29 @@
 					<attr id="fallPort">0</attr>
 					<attr id="opening">127</attr>
 					<attr id="risePort">0</attr>
-					<attr id="vibLen">66</attr>
+					<attr id="vibLen">48</attr>
 					<attr id="vibType">1</attr>
 					<seqAttr id="vibDep">
 						<elem>
-							<posNrm>22300</posNrm>
+							<posNrm>34091</posNrm>
 							<elv>64</elv>
 						</elem>
 					</seqAttr>
 					<seqAttr id="vibRate">
 						<elem>
-							<posNrm>22300</posNrm>
+							<posNrm>34091</posNrm>
 							<elv>50</elv>
 						</elem>
 					</seqAttr>
 				</noteStyle>
 			</note>
 			<note>
-				<posTick>6480</posTick>
-				<durTick>240</durTick>
+				<posTick>6240</posTick>
+				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[ver]]></lyric>
-				<phnms><![CDATA[v @r]]></phnms>
+				<lyric><![CDATA[の]]></lyric>
+				<phnms><![CDATA[n o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -473,8 +473,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[brought]]></lyric>
-				<phnms><![CDATA[bh r O: t]]></phnms>
+				<lyric><![CDATA[ゆ]]></lyric>
+				<phnms><![CDATA[j M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -504,8 +504,8 @@
 				<durTick>480</durTick>
 				<noteNum>72</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[to]]></lyric>
-				<phnms><![CDATA[th u:]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -535,8 +535,8 @@
 				<durTick>1440</durTick>
 				<noteNum>74</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[mind]]></lyric>
-				<phnms><![CDATA[m aI n d]]></phnms>
+				<lyric><![CDATA[き]]></lyric>
+				<phnms><![CDATA[k' i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -566,8 +566,8 @@
 				<durTick>480</durTick>
 				<noteNum>74</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[Should]]></lyric>
-				<phnms><![CDATA[S U d]]></phnms>
+				<lyric><![CDATA[ふ]]></lyric>
+				<phnms><![CDATA[p\ M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -597,8 +597,8 @@
 				<durTick>720</durTick>
 				<noteNum>72</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[auld]]></lyric>
-				<phnms><![CDATA[O: l d]]></phnms>
+				<lyric><![CDATA[み]]></lyric>
+				<phnms><![CDATA[m' i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -628,8 +628,8 @@
 				<durTick>240</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[ac-]]></lyric>
-				<phnms><![CDATA[V k]]></phnms>
+				<lyric><![CDATA[よ]]></lyric>
+				<phnms><![CDATA[j o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -647,8 +647,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[quain-]]></lyric>
-				<phnms><![CDATA[w eI n]]></phnms>
+				<lyric><![CDATA[む]]></lyric>
+				<phnms><![CDATA[m M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -678,8 +678,8 @@
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[tance]]></lyric>
-				<phnms><![CDATA[t V n s]]></phnms>
+				<lyric><![CDATA[つ]]></lyric>
+				<phnms><![CDATA[ts M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -709,8 +709,8 @@
 				<durTick>720</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[be]]></lyric>
-				<phnms><![CDATA[bh i:]]></phnms>
+				<lyric><![CDATA[き]]></lyric>
+				<phnms><![CDATA[k' i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -740,8 +740,8 @@
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[for-]]></lyric>
-				<phnms><![CDATA[f @r]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -759,8 +759,8 @@
 				<durTick>480</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[got]]></lyric>
-				<phnms><![CDATA[g Q t]]></phnms>
+				<lyric><![CDATA[ひ]]></lyric>
+				<phnms><![CDATA[C i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -790,8 +790,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[and]]></lyric>
-				<phnms><![CDATA[{ n d]]></phnms>
+				<lyric><![CDATA[か]]></lyric>
+				<phnms><![CDATA[k a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -821,8 +821,8 @@
 				<durTick>720</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[days]]></lyric>
-				<phnms><![CDATA[dh eI z]]></phnms>
+				<lyric><![CDATA[さ]]></lyric>
+				<phnms><![CDATA[s a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -852,8 +852,8 @@
 				<durTick>240</durTick>
 				<noteNum>62</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[of]]></lyric>
-				<phnms><![CDATA[V v]]></phnms>
+				<lyric><![CDATA[ね]]></lyric>
+				<phnms><![CDATA[n e]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -871,8 +871,8 @@
 				<durTick>480</durTick>
 				<noteNum>62</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[auld]]></lyric>
-				<phnms><![CDATA[O: l d]]></phnms>
+				<lyric><![CDATA[つ]]></lyric>
+				<phnms><![CDATA[ts M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -902,8 +902,8 @@
 				<durTick>480</durTick>
 				<noteNum>60</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[lang]]></lyric>
-				<phnms><![CDATA[l0 { N]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -933,8 +933,8 @@
 				<durTick>1440</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[syne]]></lyric>
-				<phnms lock="1"><![CDATA[s aI n]]></phnms>
+				<lyric><![CDATA[つ]]></lyric>
+				<phnms><![CDATA[ts M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -964,8 +964,8 @@
 				<durTick>480</durTick>
 				<noteNum>74</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[For]]></lyric>
-				<phnms><![CDATA[f O@]]></phnms>
+				<lyric><![CDATA[い]]></lyric>
+				<phnms><![CDATA[i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -995,8 +995,8 @@
 				<durTick>720</durTick>
 				<noteNum>72</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[auld]]></lyric>
-				<phnms lock="1"><![CDATA[O:]]></phnms>
+				<lyric><![CDATA[つ]]></lyric>
+				<phnms><![CDATA[ts M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1026,8 +1026,8 @@
 				<durTick>240</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[-]]></lyric>
-				<phnms lock="1"><![CDATA[O: l d]]></phnms>
+				<lyric><![CDATA[し]]></lyric>
+				<phnms><![CDATA[S i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1045,8 +1045,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[lang]]></lyric>
-				<phnms lock="1"><![CDATA[l0 {]]></phnms>
+				<lyric><![CDATA[か]]></lyric>
+				<phnms><![CDATA[k a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1076,8 +1076,8 @@
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[-]]></lyric>
-				<phnms lock="1"><![CDATA[{ N]]></phnms>
+				<lyric><![CDATA[と]]></lyric>
+				<phnms><![CDATA[t o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1107,8 +1107,8 @@
 				<durTick>720</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[syne]]></lyric>
-				<phnms lock="1"><![CDATA[s aI n]]></phnms>
+				<lyric><![CDATA[し]]></lyric>
+				<phnms><![CDATA[S i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1138,8 +1138,8 @@
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[my]]></lyric>
-				<phnms><![CDATA[m aI]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1157,8 +1157,8 @@
 				<durTick>480</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[dear]]></lyric>
-				<phnms><![CDATA[dh I@]]></phnms>
+				<lyric><![CDATA[も]]></lyric>
+				<phnms><![CDATA[m o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1188,8 +1188,8 @@
 				<durTick>480</durTick>
 				<noteNum>74</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[For]]></lyric>
-				<phnms><![CDATA[f O@]]></phnms>
+				<lyric><![CDATA[す]]></lyric>
+				<phnms><![CDATA[s M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1219,8 +1219,8 @@
 				<durTick>720</durTick>
 				<noteNum>72</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[auld]]></lyric>
-				<phnms lock="1"><![CDATA[O:]]></phnms>
+				<lyric><![CDATA[ぎ]]></lyric>
+				<phnms><![CDATA[g' i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1250,8 +1250,8 @@
 				<durTick>240</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[-]]></lyric>
-				<phnms lock="1"><![CDATA[O: l d]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[i]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1269,8 +1269,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[lang]]></lyric>
-				<phnms lock="1"><![CDATA[l0 {]]></phnms>
+				<lyric><![CDATA[の]]></lyric>
+				<phnms><![CDATA[n o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1300,8 +1300,8 @@
 				<durTick>480</durTick>
 				<noteNum>72</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[-]]></lyric>
-				<phnms lock="1"><![CDATA[{ N]]></phnms>
+				<lyric><![CDATA[と]]></lyric>
+				<phnms><![CDATA[t o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1331,8 +1331,8 @@
 				<durTick>1440</durTick>
 				<noteNum>74</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[syne]]></lyric>
-				<phnms lock="1"><![CDATA[s aI n]]></phnms>
+				<lyric><![CDATA[を]]></lyric>
+				<phnms><![CDATA[o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1360,10 +1360,10 @@
 			<note>
 				<posTick>24480</posTick>
 				<durTick>480</durTick>
-				<noteNum>77</noteNum>
+				<noteNum>74</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[We'll]]></lyric>
-				<phnms><![CDATA[w i: l]]></phnms>
+				<lyric><![CDATA[あ]]></lyric>
+				<phnms><![CDATA[a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1393,8 +1393,8 @@
 				<durTick>720</durTick>
 				<noteNum>72</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[tak]]></lyric>
-				<phnms lock="1"><![CDATA[t { k]]></phnms>
+				<lyric><![CDATA[け]]></lyric>
+				<phnms><![CDATA[k e]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1424,8 +1424,8 @@
 				<durTick>240</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[a]]></lyric>
-				<phnms><![CDATA[V]]></phnms>
+				<lyric><![CDATA[て]]></lyric>
+				<phnms><![CDATA[t e]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1443,8 +1443,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[cup]]></lyric>
-				<phnms><![CDATA[kh V p]]></phnms>
+				<lyric><![CDATA[ぞ]]></lyric>
+				<phnms><![CDATA[dz o]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1474,8 +1474,8 @@
 				<durTick>480</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[o']]></lyric>
-				<phnms><![CDATA[@]]></phnms>
+				<lyric><![CDATA[け]]></lyric>
+				<phnms><![CDATA[k e]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1505,8 +1505,8 @@
 				<durTick>720</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[kind-]]></lyric>
-				<phnms><![CDATA[kh aI n]]></phnms>
+				<lyric><![CDATA[さ]]></lyric>
+				<phnms><![CDATA[s a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1536,8 +1536,8 @@
 				<durTick>240</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[ness]]></lyric>
-				<phnms><![CDATA[d n e s]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1555,8 +1555,8 @@
 				<durTick>480</durTick>
 				<noteNum>67</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[yet]]></lyric>
-				<phnms><![CDATA[j e t]]></phnms>
+				<lyric><![CDATA[は]]></lyric>
+				<phnms lock="1"><![CDATA[w a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1586,8 +1586,8 @@
 				<durTick>480</durTick>
 				<noteNum>69</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[for]]></lyric>
-				<phnms><![CDATA[f O@]]></phnms>
+				<lyric><![CDATA[わ]]></lyric>
+				<phnms><![CDATA[w a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1617,8 +1617,8 @@
 				<durTick>720</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[auld]]></lyric>
-				<phnms lock="1"><![CDATA[O:]]></phnms>
+				<lyric><![CDATA[か]]></lyric>
+				<phnms><![CDATA[k a]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1648,8 +1648,8 @@
 				<durTick>240</durTick>
 				<noteNum>62</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[-]]></lyric>
-				<phnms lock="1"><![CDATA[O: l d]]></phnms>
+				<lyric><![CDATA[れ]]></lyric>
+				<phnms><![CDATA[4 e]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1667,8 +1667,8 @@
 				<durTick>480</durTick>
 				<noteNum>62</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[lang]]></lyric>
-				<phnms lock="1"><![CDATA[l0 {]]></phnms>
+				<lyric><![CDATA[ゆ]]></lyric>
+				<phnms><![CDATA[j M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1698,8 +1698,8 @@
 				<durTick>480</durTick>
 				<noteNum>60</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[-]]></lyric>
-				<phnms lock="1"><![CDATA[{ N]]></phnms>
+				<lyric><![CDATA[ー]]></lyric>
+				<phnms lock="1"><![CDATA[M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
@@ -1729,8 +1729,8 @@
 				<durTick>1440</durTick>
 				<noteNum>65</noteNum>
 				<velocity>64</velocity>
-				<lyric><![CDATA[syne]]></lyric>
-				<phnms><![CDATA[s aI n]]></phnms>
+				<lyric><![CDATA[く]]></lyric>
+				<phnms><![CDATA[k M]]></phnms>
 				<noteStyle>
 					<attr id="accent">50</attr>
 					<attr id="bendDep">8</attr>
